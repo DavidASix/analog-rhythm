@@ -1,0 +1,25 @@
+.record-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+    overflow: hidden;
+    margin: 0px;
+}
+
+@keyframes spin {
+    from {transform:rotate(0deg);}
+    to {transform:rotate(360deg);}
+}
+
+.spin {
+    animation: spin 3000ms linear 0ms infinite;
+}
+
+.spin:focus {
+    animation-play-state: paused;
+}
+
+.paused {
+    animation-play-state: paused;
+  }

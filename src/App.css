@@ -1,0 +1,102 @@
+.color-palette-row {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    gap: 20px
+}
+
+.color-button {
+    all: unset;
+    height: 30px;
+    width: 30px;
+    border-radius: 7.5px;
+    box-shadow: 2.5px 2.5px #080808,
+                5px 5px #181818,
+                7.5px 7.5px #282828;
+    transition: all 200ms;
+}
+
+.color-button:hover,
+.color-button:focus
+ {
+    cursor: pointer;
+    transform: scale(1.05);
+    box-shadow: 5px 5px #080808,
+                10px 10px #181818,
+                15px 15px #282828;
+}
+
+.text-input {
+    all: unset;
+    transition: all 200ms;
+    border-bottom: 2px var(--primary) solid;
+    color: var(--light);
+    font-size: 1.5rem;
+}
+
+.text-input:hover,
+.text-input:focus {
+    border-bottom: 5px var(--secondary) solid;
+}
+
+.record-sizer {
+    height: auto;
+    width: 100%;
+    padding: 0px 50px;
+    max-width: 600px;
+}
+
+.hero {
+    min-height: min(100vh, 1000px);
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+}
+
+.hero-left {
+    flex: 1;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+}
+
+.hero-left>p {
+    padding: 0px 2.5%;
+    margin-bottom: 10px;
+}
+
+.hero-right {
+    flex: 2;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+}
+
+@media only screen and (max-width: 880px) {
+    .hero {
+        display:block;
+    }
+
+    .hero-left {
+        height: min-content;
+        width: 100%;
+        padding-top: 150px;
+        padding-bottom: 80px;
+    }
+    .hero-right {
+        justify-content: start;
+        width: 100%;
+        height: min-content;
+        padding-bottom: 100px;
+    }
+}

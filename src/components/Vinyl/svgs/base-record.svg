@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="208.05"
+   height="208.10001"
+   viewBox="0 0 208.05 208.10001"
+   version="1.1"
+   id="svg1"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1" />
+  <g
+     id="layer1"
+     transform="translate(-472,-295)">
+    <path
+       class="st0"
+       d="m 648.25,326.9 c -19.3,-19.3 -44.9,-29.9 -72.2,-29.9 -27.3,0 -52.9,10.6 -72.2,29.9 -39.8,39.8 -39.8,104.5 0,144.3 19.3,19.3 44.9,29.9 72.2,29.9 27.3,0 52.9,-10.6 72.2,-29.9 19.2,-19.2 29.8,-44.9 29.8,-72.2 0,-27.2 -10.6,-52.9 -29.8,-72.1 z m -72.2,75.1 c -1.6,0 -3,-1.3 -3,-3 0,-1.6 1.3,-3 3,-3 1.6,0 3,1.3 3,3 0,1.7 -1.4,3 -3,3 z"
+       id="path67"
+       style="display:inline;fill:#333333" />
+    <path
+       d="m 576.05,299 c 26.7,0 51.8,10.4 70.7,29.3 39,39 39,102.5 0,141.5 -18.9,18.9 -44,29.3 -70.7,29.3 -26.7,0 -51.8,-10.4 -70.7,-29.3 -39,-39 -39,-102.5 0,-141.5 18.8,-18.9 44,-29.3 70.7,-29.3 m 0,-4 c -27.8,0 -53.9,10.8 -73.6,30.5 -40.6,40.6 -40.6,106.6 0,147.1 19.7,19.7 45.8,30.5 73.6,30.5 27.8,0 53.9,-10.8 73.6,-30.5 19.6,-19.6 30.4,-45.8 30.4,-73.6 0,-27.8 -10.8,-54 -30.4,-73.6 -19.7,-19.6 -45.8,-30.4 -73.6,-30.4 z"
+       id="path68"
+       style="display:inline" />
+    <g
+       id="g133"
+       style="display:inline"
+       transform="translate(472,295)">
+      <circle
+         class="st3"
+         cx="194"
+         cy="104.3"
+         r="88.900002"
+         id="circle71"
+         transform="translate(-89.45)"
+         style="fill:none;stroke:#000000;stroke-width:0.5" />
+      <circle
+         class="st3"
+         cx="194"
+         cy="104.3"
+         r="80.199997"
+         id="circle72"
+         transform="translate(-89.45)"
+         style="fill:none;stroke:#000000;stroke-width:0.5" />
+      <circle
+         class="st3"
+         cx="194"
+         cy="104.3"
+         r="65.800003"
+         id="circle73"
+         transform="translate(-89.45)"
+         style="fill:none;stroke:#000000;stroke-width:0.5" />
+      <circle
+         class="st3"
+         cx="194"
+         cy="104.3"
+         r="55.200001"
+         id="circle74"
+         transform="translate(-89.45)"
+         style="display:inline;fill:none;stroke:#000000;stroke-width:0.5" />
+    </g>
+    <path
+       d="m 576.55,352 c -26.1,0 -47.3,21.2 -47.3,47.3 0,26.1 21.2,47.3 47.3,47.3 26.1,0 47.3,-21.2 47.3,-47.3 0,-26.1 -21.1,-47.3 -47.3,-47.3 z m -0.5,50 c -1.6,0 -3,-1.3 -3,-3 0,-1.6 1.3,-3 3,-3 1.6,0 3,1.3 3,3 0,1.7 -1.4,3 -3,3 z"
+       id="path74"
+       style="display:inline" />
+  </g>
+</svg>
